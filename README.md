@@ -4,7 +4,7 @@
 <br/>
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Noman Ishaq" src="https://www.lewisu.edu/experts/wordpress/wp-content/uploads/2019/02/coding.jpg" height="20%" />
+<img width="55%" align="right" alt="Abdul-Moez" src="https://www.lewisu.edu/experts/wordpress/wp-content/uploads/2019/02/coding.jpg" height="20%" />
 
 <br/>
 
@@ -41,7 +41,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdul-moez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdul-Moez" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/abdul_moez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" alt="Abdul-Moez" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/abdul_moez" target="blank"><img align="center" src="https://npm-assets.fiverrcdn.com/assets/@fiverr-private/realtime_notifications/favicon.5b3b346.ico" alt="Abdul-Moez" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Website:</h3>
