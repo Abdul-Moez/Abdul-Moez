@@ -32,6 +32,7 @@
 <li>Sql server</li>
 <li>Asp.Net (MVC)</li>
 <li>My Sql</li>
+<li>PSD to HTML</li>
 </ul>  
 
 <br/>
