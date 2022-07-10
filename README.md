@@ -33,6 +33,8 @@
 <li>Asp.Net (MVC)</li>
 <li>My Sql</li>
 <li>PSD to HTML</li>
+<li>php</li>
+<li>seo</li>
 </ul>  
 
 <br/>
