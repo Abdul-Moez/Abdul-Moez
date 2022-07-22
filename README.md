@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm <a href="https://abduls-portfolio.netlify.app" target="_blank">Abdul Moez</a></h1>
 <br/>
-<p align="left">I am a Front End Web Developer with 6+ monts of experience building web Development.</p>
+<p align="left">I am a PHP Web Developer with 6+ monts of experience building web Development.</p>
 <br/>
 <h2> About Me </h2>
 
