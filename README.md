@@ -20,21 +20,21 @@
 
 
 <ul>
-<li>Html</li>
-<li>Css</li>
-<li>JavaScript</li>
-<li>Bootstrap</li>
-<li>Jquery</li>
-<li>Css Flex</li>
-<li>Es6</li>
-<li>React.js</li>
-<li>C#</li>
-<li>Sql server</li>
-<li>Asp.Net (MVC)</li>
-<li>My Sql</li>
-<li>PSD to HTML</li>
-<li>php</li>
-<li>seo</li>
+  <li>Html</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>Bootstrap</li>
+  <li>Jquery</li>
+  <li>Es6</li>
+  <li>React.js</li>
+  <li>C#</li>
+  <li>Sql server</li>
+  <li>Asp.Net (MVC)</li>
+  <li>My Sql</li>
+  <li>PSD to HTML</li>
+  <li>PHP</li>
+  <li>Laravel</li>
+  <li>SEO</li>
 </ul>  
 
 <br/>
