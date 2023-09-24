@@ -1,12 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm <a href="https://abduls-portfolio.netlify.app" target="_blank">Abdul Moez</a></h1>
+<h1 align="center">Hi! , I'm <a href="https://abduls-portfolio.netlify.app" target="_blank">Abdul Moez</a></h1>
 <br/>
 <p align="left">I am a PHP Web Developer.</p>
 <br/>
 <h2> About Me </h2>
-
-<img width="55%" align="right" alt="Abdul-Moez" src="https://www.lewisu.edu/experts/wordpress/wp-content/uploads/2019/02/coding.jpg" height="20%" />
-
-<br/>
 
 - I’m currently working as a Freelancer.
 
