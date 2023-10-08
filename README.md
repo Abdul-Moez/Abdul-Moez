@@ -1,14 +1,14 @@
 <h1 align="center">Hi! , I'm <a href="https://abduls-portfolio.netlify.app" target="_blank">Abdul Moez</a></h1>
 <br/>
-<p align="left">I am a PHP Web Developer.</p>
+<p align="left">I am a PHP/Laravel Developer.</p>
 <br/>
 <h2> About Me </h2>
 
-- I’m currently working as a Freelancer.
+- I’m currently working at <a href="https://ahftechnologies.com" target="_blank">AHF Technologies</a>.
 
-- I’m currently learning Php, Laravel 
+- I’m currently learning Php, Laravel and Python
 
-- Talk to me about  Frontend Development, JavaScript, React.js, Open Source 
+- Talk to me about  Frontend Development, Backend Development, JavaScript, React.js, Open Source, Laravel and PHP
 
 <br/><br/>
 <h2 align="left">Skills:<img align="right" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
@@ -22,19 +22,19 @@
   <li>Bootstrap</li>
   <li>Jquery</li>
   <li>Es6</li>
+  <li>PHP</li>
+  <li>Laravel</li>
   <li>React.js</li>
   <li>C#</li>
   <li>Sql server</li>
   <li>Asp.Net (MVC)</li>
   <li>My Sql</li>
   <li>PSD to HTML</li>
-  <li>PHP</li>
-  <li>Laravel</li>
   <li>SEO</li>
 </ul>  
 
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Moez&" alt="Abdul-Moez" width="100%" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Abdul%20Moez&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Abdul Moez" width="100%" /></p>
 
 <br/>
 <h3 align="left">Connect with me:</h3>
