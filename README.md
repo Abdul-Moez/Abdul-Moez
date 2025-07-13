@@ -4,9 +4,9 @@
 <br/>
 <h2> About Me </h2>
 
-- I’m currently working at <a href="https://ahftechnologies.com" target="_blank">AHF Technologies</a>.
+- I’m currently working at <a href="https://www.dawateislami.net/" target="_blank">Dawat-e-Islami</a>.
 
-- I’m currently learning Php, Laravel and Python
+- I’m currently learning PHP, Laravel and Python
 
 - Talk to me about  Frontend Development, Backend Development, JavaScript, React.js, Open Source, Laravel and PHP
 
@@ -24,13 +24,7 @@
   <li>Es6</li>
   <li>PHP</li>
   <li>Laravel</li>
-  <li>React.js</li>
-  <li>C#</li>
-  <li>Sql server</li>
-  <li>Asp.Net (MVC)</li>
   <li>My Sql</li>
-  <li>PSD to HTML</li>
-  <li>SEO</li>
 </ul>  
 
 <br/>
