@@ -1,43 +1,31 @@
-<h1 align="center">Hi! , I'm <a href="https://abduls-portfolio.netlify.app" target="_blank">Abdul Moez</a></h1>
-<br/>
-<p align="left">I am a PHP/Laravel Developer.</p>
-<br/>
-<h2> About Me </h2>
+# Hi, I'm Abdul Moez
+ 
+I'm a PHP developer in Karachi. Most of my work is Laravel and CodeIgniter, along with the front end that goes with them.
+ 
+- Associate Web Developer at [Dawat-e-Islami](https://www.dawateislami.net/)
+- Learning Python, and building with AI coding tools like Claude
+- Ask me about Laravel, PHP or front-end work
+## Tech
+ 
+- Back end: PHP, Laravel, CodeIgniter, MySQL
+- Front end: HTML, CSS, JavaScript, jQuery, Bootstrap
+- Also: Python, AI-assisted development with Claude
+## Selected work
+ 
+- [CrystalX CoreView LCD](https://github.com/Abdul-Moez/CrystalX-CoreView-Software-For-Windows): an unofficial Windows app that drives the LCD on the CrystalX CoreView V-950 case. It shows images, video, a clock, weather and live system stats. Written in Python and built with Claude.
+- [Expense Tracker](https://github.com/Abdul-Moez/Expense-Tracker): expense tracking app built with Laravel
+- [Nouvaid Center](https://abdulmoez.netlify.app/portfolio/nouvaid-center): e-commerce site
+- [UST Leather](https://abdulmoez.netlify.app/portfolio/ust-leather): e-commerce site
+- [SAHF Group](https://abdulmoez.netlify.app/portfolio/sahf-group): company site
+More on my [portfolio](https://abdulmoez.netlify.app/).
+ 
+## GitHub activity
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Abdul-Moez&theme=dark&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=Abdul-Moez&theme=default&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats for Abdul-Moez" />
+</picture>
 
-- I’m currently working at <a href="https://www.dawateislami.net/" target="_blank">Dawat-e-Islami</a>.
-
-- I’m currently learning PHP, Laravel and Python
-
-- Talk to me about  Frontend Development, Backend Development, JavaScript, React.js, Open Source, Laravel and PHP
-
-<br/><br/>
-<h2 align="left">Skills:<img align="right" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
-
-
-
-<ul>
-  <li>Html</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>Bootstrap</li>
-  <li>Jquery</li>
-  <li>Es6</li>
-  <li>PHP</li>
-  <li>Laravel</li>
-  <li>My Sql</li>
-</ul>  
-
-<br/>
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Abdul%20Moez&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Abdul Moez" width="100%" /></p>
-
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdul-moez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdul-Moez" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/abdul_moez" target="blank"><img align="center" src="https://npm-assets.fiverrcdn.com/assets/@fiverr-private/realtime_notifications/favicon.5b3b346.ico" alt="Abdul-Moez" height="30" width="30" /></a>
-</p>
-
-<h3 align="left">Website:</h3>
-<a href="https://abduls-portfolio.netlify.app/" target="blank">https://abduls-portfolio.netlify.app/</a> 
-
-
+## Contact
+ 
+[LinkedIn](https://linkedin.com/in/abdul-moez) · [Fiverr](https://www.fiverr.com/abdul_moez)
